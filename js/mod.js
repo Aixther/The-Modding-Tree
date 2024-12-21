@@ -1,7 +1,7 @@
 let modInfo = {
-	name: "The ??? Tree",
-	author: "nobody",
-	pointsName: "points",
+	name: "超级字母树",
+	author: "Aixther",
+	pointsName: "Apoints",
 	modFiles: ["layers.js", "tree.js"],
 
 	discordName: "",
@@ -13,13 +13,13 @@ let modInfo = {
 // Set your version in num and name
 let VERSION = {
 	num: "0.0",
-	name: "Literally nothing",
+	name: "开始",
 }
 
 let changelog = `<h1>Changelog:</h1><br>
 	<h3>v0.0</h3><br>
-		- Added things.<br>
-		- Added stuff.`
+		- 添加东西<br>
+		- 开始`
 
 let winText = `Congratulations! You have reached the end and beaten this game, but for now...`
 
